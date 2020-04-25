@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /About/
 ---
-![A picture of me]({{ site.url }}/assets/profilePic.jpg){:style="margin: 10px auto 20px; display: block;" width="50%" height="50%"}
+![A picture of me]({{ site.url }}/profilePic.jpg){:style="margin: 10px auto 20px; display: block;" width="50%" height="50%"}
 
 I am a 22 year old male who was born and raised in Grande Prairie, AB. 
 Ive graduated from the GPRC Computer Systems Analyst Diploma program in 2017 with honors, and have since been working in IT. Currently I work for Avenge Energy Services as their in house IT Analyst.
